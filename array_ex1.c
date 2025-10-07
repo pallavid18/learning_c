@@ -55,6 +55,7 @@ int main(){
 	for(i=0;i<5;i++){
 		printf("\n %d",arr1[i]);
 	}
+	
 	return 0;
 }
 

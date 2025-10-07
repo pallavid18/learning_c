@@ -36,5 +36,7 @@ int main(){
 	}
 	printf("\n Min value : %d",min);
 	
+	
+	
 	return 0;
 }
